@@ -1,5 +1,5 @@
 --Library name and version
-local MAJOR, MINOR = "LibVampire", 1.2
+local MAJOR, MINOR = "LibVampire", 1.3
 --An output prefix
 local prefix = "[".. MAJOR .. "]"
 --Library already loaded check with version comparison
